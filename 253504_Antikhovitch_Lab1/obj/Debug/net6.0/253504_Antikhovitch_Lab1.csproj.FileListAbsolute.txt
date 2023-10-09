@@ -1,0 +1,17 @@
+E:\C# labs\253504_Antikhovitch_Lab1\obj\Debug\net6.0\253504_Antikhovitch_Lab1.csproj.AssemblyReference.cache
+E:\C# labs\253504_Antikhovitch_Lab1\obj\Debug\net6.0\253504_Antikhovitch_Lab1.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# labs\253504_Antikhovitch_Lab1\obj\Debug\net6.0\253504_Antikhovitch_Lab1.AssemblyInfoInputs.cache
+E:\C# labs\253504_Antikhovitch_Lab1\obj\Debug\net6.0\253504_Antikhovitch_Lab1.AssemblyInfo.cs
+E:\C# labs\253504_Antikhovitch_Lab1\obj\Debug\net6.0\253504_Antikhovitch_Lab1.csproj.CoreCompileInputs.cache
+E:\C# labs\253504_Antikhovitch_Lab1\bin\Debug\net6.0\253504_Antikhovitch_Lab1.exe
+E:\C# labs\253504_Antikhovitch_Lab1\bin\Debug\net6.0\253504_Antikhovitch_Lab1.deps.json
+E:\C# labs\253504_Antikhovitch_Lab1\bin\Debug\net6.0\253504_Antikhovitch_Lab1.runtimeconfig.json
+E:\C# labs\253504_Antikhovitch_Lab1\bin\Debug\net6.0\253504_Antikhovitch_Lab1.dll
+E:\C# labs\253504_Antikhovitch_Lab1\bin\Debug\net6.0\253504_Antikhovitch_Lab1.pdb
+E:\C# labs\253504_Antikhovitch_Lab1\obj\Debug\net6.0\253504_Antikhovitch_Lab1.dll
+E:\C# labs\253504_Antikhovitch_Lab1\obj\Debug\net6.0\refint\253504_Antikhovitch_Lab1.dll
+E:\C# labs\253504_Antikhovitch_Lab1\obj\Debug\net6.0\253504_Antikhovitch_Lab1.pdb
+E:\C# labs\253504_Antikhovitch_Lab1\obj\Debug\net6.0\253504_Antikhovitch_Lab1.genruntimeconfig.cache
+E:\C# labs\253504_Antikhovitch_Lab1\obj\Debug\net6.0\ref\253504_Antikhovitch_Lab1.dll
+E:\C# labs\253504_Antikhovitch_Lab1\bin\Debug\net6.0\Generic.Math.dll
+E:\C# labs\253504_Antikhovitch_Lab1\obj\Debug\net6.0\253504_Antikhovitch_Lab1.csproj.CopyComplete
