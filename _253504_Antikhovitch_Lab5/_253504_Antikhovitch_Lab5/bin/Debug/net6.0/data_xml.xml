@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCCC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CCC>
+    <Restaurants>
+      <Restaurant>
+        <Name>Restaurant 1</Name>
+        <Description>Japanese cuisine</Description>
+        <Price>2500</Price>
+      </Restaurant>
+      <Restaurant>
+        <Name>Restaurant 2</Name>
+        <Description>Russian cuisine</Description>
+        <Price>1700</Price>
+      </Restaurant>
+    </Restaurants>
+    <Kitchens>
+      <Kitchen>
+        <KitchenID>1</KitchenID>
+        <Dishes>
+          <Dish>
+            <DishID>1</DishID>
+            <Name>Sushi</Name>
+          </Dish>
+          <Dish>
+            <DishID>2</DishID>
+            <Name>Rolls</Name>
+          </Dish>
+        </Dishes>
+      </Kitchen>
+      <Kitchen>
+        <KitchenID>2</KitchenID>
+        <Dishes>
+          <Dish>
+            <DishID>3</DishID>
+            <Name>Borscht</Name>
+          </Dish>
+          <Dish>
+            <DishID>4</DishID>
+            <Name>Сholodets</Name>
+          </Dish>
+        </Dishes>
+      </Kitchen>
+    </Kitchens>
+  </CCC>
+</ArrayOfCCC>

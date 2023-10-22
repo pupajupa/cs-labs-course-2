@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data>
+  <CCC>
+    <Restaurant>
+      <Name>Restaurant 1</Name>
+      <Description>Japanese cuisine</Description>
+      <Price>2500</Price>
+    </Restaurant>
+    <Restaurant>
+      <Name>Restaurant 2</Name>
+      <Description>Russian cuisine</Description>
+      <Price>1700</Price>
+    </Restaurant>
+    <Kitchen>
+      <KitchenID>1</KitchenID>
+      <Dish>
+        <DishID>1</DishID>
+        <Name>Sushi</Name>
+      </Dish>
+      <Dish>
+        <DishID>2</DishID>
+        <Name>Rolls</Name>
+      </Dish>
+    </Kitchen>
+    <Kitchen>
+      <KitchenID>2</KitchenID>
+      <Dish>
+        <DishID>3</DishID>
+        <Name>Borscht</Name>
+      </Dish>
+      <Dish>
+        <DishID>4</DishID>
+        <Name>Сholodets</Name>
+      </Dish>
+    </Kitchen>
+  </CCC>
+</Data>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TMwO1XgkiKgjTi3qvcJls4ANDxfO1O3AUWkfM4dYZ8hdwIpKg9wHCyhNBSQfT+gXOtth3LZ63xU94FcbITocbA==",
+  "success": true,
+  "projectFilePath": "E:\\BSUIR\\2\\C# labs\\_253504_Antikhovitch_Lab5\\_253504_Antikhovitch_Lab5\\_253504_Antikhovitch_Lab5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

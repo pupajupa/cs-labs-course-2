@@ -1,0 +1,12 @@
+E:\BSUIR\2\C# labs\_253504_Antikhovitch_Lab5\_253504_Antikhovitch_Lab5.Domain\bin\Debug\net6.0\_253504_Antikhovitch_Lab5.Domain.deps.json
+E:\BSUIR\2\C# labs\_253504_Antikhovitch_Lab5\_253504_Antikhovitch_Lab5.Domain\bin\Debug\net6.0\_253504_Antikhovitch_Lab5.Domain.dll
+E:\BSUIR\2\C# labs\_253504_Antikhovitch_Lab5\_253504_Antikhovitch_Lab5.Domain\bin\Debug\net6.0\_253504_Antikhovitch_Lab5.Domain.pdb
+E:\BSUIR\2\C# labs\_253504_Antikhovitch_Lab5\_253504_Antikhovitch_Lab5.Domain\obj\Debug\net6.0\_253504_Antikhovitch_Lab5.Domain.csproj.AssemblyReference.cache
+E:\BSUIR\2\C# labs\_253504_Antikhovitch_Lab5\_253504_Antikhovitch_Lab5.Domain\obj\Debug\net6.0\_253504_Antikhovitch_Lab5.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\BSUIR\2\C# labs\_253504_Antikhovitch_Lab5\_253504_Antikhovitch_Lab5.Domain\obj\Debug\net6.0\_253504_Antikhovitch_Lab5.Domain.AssemblyInfoInputs.cache
+E:\BSUIR\2\C# labs\_253504_Antikhovitch_Lab5\_253504_Antikhovitch_Lab5.Domain\obj\Debug\net6.0\_253504_Antikhovitch_Lab5.Domain.AssemblyInfo.cs
+E:\BSUIR\2\C# labs\_253504_Antikhovitch_Lab5\_253504_Antikhovitch_Lab5.Domain\obj\Debug\net6.0\_253504_Antikhovitch_Lab5.Domain.csproj.CoreCompileInputs.cache
+E:\BSUIR\2\C# labs\_253504_Antikhovitch_Lab5\_253504_Antikhovitch_Lab5.Domain\obj\Debug\net6.0\_253504_Antikhovitch_Lab5.Domain.dll
+E:\BSUIR\2\C# labs\_253504_Antikhovitch_Lab5\_253504_Antikhovitch_Lab5.Domain\obj\Debug\net6.0\refint\_253504_Antikhovitch_Lab5.Domain.dll
+E:\BSUIR\2\C# labs\_253504_Antikhovitch_Lab5\_253504_Antikhovitch_Lab5.Domain\obj\Debug\net6.0\_253504_Antikhovitch_Lab5.Domain.pdb
+E:\BSUIR\2\C# labs\_253504_Antikhovitch_Lab5\_253504_Antikhovitch_Lab5.Domain\obj\Debug\net6.0\ref\_253504_Antikhovitch_Lab5.Domain.dll

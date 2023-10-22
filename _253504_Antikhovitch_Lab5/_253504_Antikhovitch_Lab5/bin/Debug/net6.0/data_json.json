@@ -1,0 +1,1 @@
+[{"Restaurants":[{"Name":"Restaurant 1","Description":"Japanese cuisine","Price":2500.0},{"Name":"Restaurant 2","Description":"Russian cuisine","Price":1700.0}],"Kitchens":[{"KitchenID":1,"Dishes":[{"DishID":1,"Name":"Sushi"},{"DishID":2,"Name":"Rolls"}]},{"KitchenID":2,"Dishes":[{"DishID":3,"Name":"Borscht"},{"DishID":4,"Name":"Сholodets"}]}]}]
