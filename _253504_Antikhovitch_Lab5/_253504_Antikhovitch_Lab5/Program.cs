@@ -26,13 +26,13 @@ internal class Program
         kitchen1.Dishes.Add(new Dish(2, "Rolls"));
         data.Kitchens.Add(kitchen1);
 
-        Kitchen kitchen2 = new Kitchen { KitchenID = 2 };
+        Kitchen kitchen2 = new() { KitchenID = 2 };
         kitchen2.Dishes.Add(new Dish(3, "Borscht"));
         kitchen2.Dishes.Add(new Dish(4, "Сholodets"));
         data.Kitchens.Add(kitchen2);
 
         //serialize the data to three different files
-        Serializer serializer = new Serializer();
+        Serializer serializer = new();
         serializer.SerializeByLINQ(new List<CCC> { data }, "data_linq.xml");
         serializer.SerializeXML(new List<CCC> { data }, "data_xml.xml");
         serializer.SerializeJSON(new List<CCC> { data }, "data_json.json");
@@ -44,9 +44,9 @@ internal class Program
 
         if (IsEqual(data, deserializedDataLINQ) && IsEqual(data, deserializedDataXML) && IsEqual(data, deserializedDataJSON))
         {
-            Console.WriteLine("Deserialization successful. The data matches the original.");
+            Console.WriteLine("Deserialization successful.");
         }
         else
-            Console.WriteLine("Deserialization failed. The data doesn't match the original.");
+            Console.WriteLine("Deserialization failed.");
     }
 }

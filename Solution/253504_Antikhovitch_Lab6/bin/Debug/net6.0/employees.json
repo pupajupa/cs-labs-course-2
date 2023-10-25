@@ -1,0 +1,1 @@
+[{"EmployeeID":1,"Name":"Ivan","Age":18,"IsMaster":false},{"EmployeeID":2,"Name":"Lina","Age":22,"IsMaster":false},{"EmployeeID":3,"Name":"Aleksandr","Age":25,"IsMaster":true},{"EmployeeID":4,"Name":"Kirill","Age":41,"IsMaster":true},{"EmployeeID":5,"Name":"Alice","Age":21,"IsMaster":false}]

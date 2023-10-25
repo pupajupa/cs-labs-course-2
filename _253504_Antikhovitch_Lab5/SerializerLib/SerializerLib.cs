@@ -9,11 +9,11 @@ namespace SerializerLib
     {
         public void SerializeByLINQ(IEnumerable<CCC> xxx, string fileName)
         {
-            XElement rootElement = new XElement("Data");
+            XElement rootElement = new("Data");
             foreach (var item in xxx)
             {
                 //создаем элементы для каждого объекта ССС
-                XElement cccElement = new XElement("CCC");
+                XElement cccElement = new("CCC");
                 //добавляем данные объекта ССС в элемент
                 foreach (var rest in item.Restaurants)
                 {
