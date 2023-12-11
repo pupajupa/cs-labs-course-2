@@ -1,0 +1,12 @@
+E:\BSUIR\2\C# labs\Calculations\bin\Debug\net6.0\Calculations.deps.json
+E:\BSUIR\2\C# labs\Calculations\bin\Debug\net6.0\Calculations.dll
+E:\BSUIR\2\C# labs\Calculations\bin\Debug\net6.0\Calculations.pdb
+E:\BSUIR\2\C# labs\Calculations\obj\Debug\net6.0\Calculations.csproj.AssemblyReference.cache
+E:\BSUIR\2\C# labs\Calculations\obj\Debug\net6.0\Calculations.GeneratedMSBuildEditorConfig.editorconfig
+E:\BSUIR\2\C# labs\Calculations\obj\Debug\net6.0\Calculations.AssemblyInfoInputs.cache
+E:\BSUIR\2\C# labs\Calculations\obj\Debug\net6.0\Calculations.AssemblyInfo.cs
+E:\BSUIR\2\C# labs\Calculations\obj\Debug\net6.0\Calculations.csproj.CoreCompileInputs.cache
+E:\BSUIR\2\C# labs\Calculations\obj\Debug\net6.0\Calculations.dll
+E:\BSUIR\2\C# labs\Calculations\obj\Debug\net6.0\refint\Calculations.dll
+E:\BSUIR\2\C# labs\Calculations\obj\Debug\net6.0\Calculations.pdb
+E:\BSUIR\2\C# labs\Calculations\obj\Debug\net6.0\ref\Calculations.dll

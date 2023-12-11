@@ -1,0 +1,12 @@
+E:\BSUIR\2\C# labs\253504_Antikhovitch_Lab8\StreamServiceLib\bin\Debug\net6.0\StreamServiceLib.deps.json
+E:\BSUIR\2\C# labs\253504_Antikhovitch_Lab8\StreamServiceLib\bin\Debug\net6.0\StreamServiceLib.dll
+E:\BSUIR\2\C# labs\253504_Antikhovitch_Lab8\StreamServiceLib\bin\Debug\net6.0\StreamServiceLib.pdb
+E:\BSUIR\2\C# labs\253504_Antikhovitch_Lab8\StreamServiceLib\obj\Debug\net6.0\StreamServiceLib.csproj.AssemblyReference.cache
+E:\BSUIR\2\C# labs\253504_Antikhovitch_Lab8\StreamServiceLib\obj\Debug\net6.0\StreamServiceLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\BSUIR\2\C# labs\253504_Antikhovitch_Lab8\StreamServiceLib\obj\Debug\net6.0\StreamServiceLib.AssemblyInfoInputs.cache
+E:\BSUIR\2\C# labs\253504_Antikhovitch_Lab8\StreamServiceLib\obj\Debug\net6.0\StreamServiceLib.AssemblyInfo.cs
+E:\BSUIR\2\C# labs\253504_Antikhovitch_Lab8\StreamServiceLib\obj\Debug\net6.0\StreamServiceLib.csproj.CoreCompileInputs.cache
+E:\BSUIR\2\C# labs\253504_Antikhovitch_Lab8\StreamServiceLib\obj\Debug\net6.0\StreamServiceLib.dll
+E:\BSUIR\2\C# labs\253504_Antikhovitch_Lab8\StreamServiceLib\obj\Debug\net6.0\refint\StreamServiceLib.dll
+E:\BSUIR\2\C# labs\253504_Antikhovitch_Lab8\StreamServiceLib\obj\Debug\net6.0\StreamServiceLib.pdb
+E:\BSUIR\2\C# labs\253504_Antikhovitch_Lab8\StreamServiceLib\obj\Debug\net6.0\ref\StreamServiceLib.dll
